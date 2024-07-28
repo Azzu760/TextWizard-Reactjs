@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TextWizard-Reactjs/static/css/main.abd64e84.css",
+    "main.js": "/TextWizard-Reactjs/static/js/main.47b1bace.js",
+    "index.html": "/TextWizard-Reactjs/index.html",
+    "main.abd64e84.css.map": "/TextWizard-Reactjs/static/css/main.abd64e84.css.map",
+    "main.47b1bace.js.map": "/TextWizard-Reactjs/static/js/main.47b1bace.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.47b1bace.js"
+  ]
+}
