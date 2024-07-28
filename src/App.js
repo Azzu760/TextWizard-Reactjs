@@ -29,7 +29,7 @@ function App() {
 
   return (
     <>
-      <Navbar title="TextUtils" mode={mode} toggleMode={toggleMode}></Navbar>;
+      <Navbar title="Text Wizard" mode={mode} toggleMode={toggleMode}></Navbar>;
       <Alert alert={alert} />
       <div className="container my-3">
         <Textform

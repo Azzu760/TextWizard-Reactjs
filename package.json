@@ -1,8 +1,8 @@
 {
-  "name": "TextUtil_App",
+  "name": "TextWizard_App",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Azzu760.github.io/TextUtil-Reactjs",
+  "homepage": "http://Azzu760.github.io/TextWizard-Reactjs",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
